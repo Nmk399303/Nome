@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hoi {}, My self {}! 
 THIS BOT WORKS FOR TAMILROKERS ALSO JOIN MY CHANNEL 
-[CHANNEL] (https://t.me/joinchat/xpjbcoJDay80ODdk) [GROUP] (https://t.me/tamilrokers_group) 
+CHANNEL https://t.me/joinchat/xpjbcoJDay80ODdk GROUP https://t.me/tamilrokers_group 
 
 
 """
