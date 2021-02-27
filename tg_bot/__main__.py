@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, My self {}! 
+Hoi {}, My self {}! 
 THIS BOT WORKS FOR TAMILROKERS ALSO JOIN MY CHANNEL 
 [CHANNEL] (https://t.me/joinchat/xpjbcoJDay80ODdk) [GROUP] (https://t.me/tamilrokers_group) 
 
